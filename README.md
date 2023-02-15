@@ -79,12 +79,6 @@ The project root contains config files such as TypeScript, Babel, ESLint, Docker
 
 ## How To Start
 
-### One Click Download & Run
-
-You can download and run the repo with one command to rule them all:
-
-`git clone https://github.com/clintonwoo/hackernews-react-graphql.git && cd hackernews-react-graphql && npm install && npm start`
-
 ### Setup
 
 Running the app in dev mode is fully featured including _hot module reloading_:
