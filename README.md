@@ -1,22 +1,8 @@
-<h2 align="center">Hacker News Clone React/GraphQL</h2>
 
-<p align="center">
-<a href="https://github.com/clintonwoo/hackernews-react-graphql/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/clintonwoo/hackernews-react-graphql.svg?style=social&label=Star"></a> 
-<a href="https://github.com/clintonwoo/"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/clintonwoo.svg?style=social&label=Follow"></a> 
-<a href="https://github.com/clintonwoo/hackernews-react-graphql/issues"><img alt="GitHub Issues" src="https://img.shields.io/github/issues/clintonwoo/hackernews-react-graphql.svg"></a> 
-<a href="https://github.com/clintonwoo/hackernews-react-graphql/pulls"><img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr-raw/clintonwoo/hackernews-react-graphql.svg"></a>
-</p>
 
 This project is a clone of hacker news rewritten with universal JavaScript, using React and GraphQL. It is intended to be an example or boilerplate to help you structure your projects using production-ready technologies.
 
-<p align="center" margin-bottom="0">
-  <a href="http://www.hnclone.win" target="_blank">
-    <img alt="Hacker News Clone Demo" width="auto" height="auto" src="docs/HN-Demo.jpg">
-  </a>
-</p>
-<p align="center">
-  <a href="http://www.hnclone.win">Live Demo</a>
-</p>
+
 
 ## Overview
 
@@ -138,10 +124,4 @@ NextJS lets us make a powerful static website but you need to consider if you ne
 
 `npm run build-static-website`: Builds static website to `/build/static`. Use a static web server _eg._ NGINX/Github Pages.
 
-## Contributing
-
-Pull requests are welcome. File an issue for ideas, conversation or feedback.
-
-### Community
-
-After you ★Star this project, follow [@ClintonDAnnolfo](https://twitter.com/clintondannolfo) on Twitter.
+Thats it!!
